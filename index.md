@@ -4,7 +4,7 @@
 ### Contact information
 - Instructor: Alexey K. Shaytan, PHD alex@intbio.org
 - Teaching assistants: Nikita Kosarim, Anastasiia Kniazeva
-- [Telegram link]([https://t.me/+qX_eshjQCoM3MzIy](https://t.me/+QfwfoKvpB21iMTEy))
+- [Telegram link](https://t.me/+QfwfoKvpB21iMTEy)
 - [Folder with presentations]()
 - [Home work folder](https://www.dropbox.com/request/PSyKaG2RNgJxzwlhsxx9)
 
