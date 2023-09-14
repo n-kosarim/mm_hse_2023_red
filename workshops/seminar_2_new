@@ -21,14 +21,18 @@
 ## Самостоятельная (домашняя) работа.
 
 - На своем локальном компьютере установите менеджер пактов conda (miniconda).
-- Создайте на своей компьютере conda environment `MD` c Python 3.5. 
-- Установить другие программы.
+- Создайте на своем компьютере conda environment `MD` c Python 3.5.
+- Установите UCSF Chimera.
+- Установите следующие программы с помощью conda в окружение MD:
+  - [JupyterLab](https://anaconda.org/conda-forge/jupyterlab)
+  - [Nglview](https://anaconda.org/conda-forge/nglview)
+  - [MDAnalysis](https://anaconda.org/conda-forge/mdanalysis)
+  - [Panedr](https://anaconda.org/conda-forge/panedr)
+  - Gromacs 2018.3 (команда 'conda install -c conda-forge -c intbio gromacs=2018.3')
 
 - Скомпилировать что-то за "звездочку".
 
 ### Оцениваемый результат
 - Отчет о проделанной работе со скриншотами, в который видно Ваше имя пользователя.
-
-### [Запись семинара 2021](https://distant.bioeng.ru/playback/presentation/2.0/playback.html?meetingId=4578ef0cf123b710b7e95fdbfa8fbcc844ec6bc3-1612794728048)
 
 ### [Презентация семианра](workshop_1.pdf)
