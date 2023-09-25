@@ -34,7 +34,7 @@ A set of PDB structures of a macromolecular complex in different conformations w
 5. Conservation analysis  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 6. Describe any problems encountered
 
-*. Make script for the task 1 with rotating the molecule in the end. !!!!!!!!!!!!!!!!!!!!
+*. Write a script/demo for the task 1 with adding molecule name in the right upper corner and 360 degree rotating around every axis before and after changing the model.
 
 внести замены остатков (rotamers), чтобы максимально соответствовать гомологу (можно одну цепь/участок), выравнивания до и после
 
