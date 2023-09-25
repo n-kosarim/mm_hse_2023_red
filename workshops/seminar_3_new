@@ -2,12 +2,12 @@
 
 ## План семинара
 - An introduction to using Chimera to vizualize  3D PDB structures
-- Pymol user interface orientation
+- Chimera user interface orientation
 - Download and open PDB structure
 - Rotating, translating, setting clipping planes, projection type, centering (actions) etc.
 - Structure visualization modes (presets, lines, sticks, spheres)
 - Making selections (by chains, sequence, etc.).
-- Pymol selection language
+- Chimera selection language             !!!!!!!!!!!!!!!!!!!!!!
 - Molecular surfaces
 - Structure alignment
 - Manipulating, moving structure (actions)
@@ -33,19 +33,41 @@
 
 A set of PDB structures of a macromolecular complex in different conformations will be suggested for analysis. The assignment report should include section detailing the following:
 
-1. Brief description of protein function and the selection of PDB structutes (at least two).
-2. Analysis of PDB files content, asymmetric unit, ligands, engineered components.
-3. Bioassembly and relation of PDB contents to the biologically active assembly.
-4. Visualization of the biologically relevant structure (clearly show ligands if present, any functionally relevant components).
-5. Analysis of PDB quality and your summary. What regions have good/poor quality? 
+1. Molecule visualization with labeled and differently colored positive, negative or aromatic amino acids and semitransparent surface.
+2. 
+3. 
+4. 
+5. 
 6. B-factor visualization (color scale should be given).
 7. Occupancy analysis
-8. Identify any potential NQ-flips.
+8. Identify any potential CLASHES.
 9. Analyze and visualize electron density together with the structure, see if any problems can be seen.
 10. Electorstatic surface analysis
-11. Make figures showing changes in conformation by structural superposition. Make a morphing video if possible.
+11. Make figures showing changes in conformation by structural superposition.
 12. Identify and visualize key residues important for ligand binding.
 13. Describe any problems encountered
+
+Protein dihedral angle analysis
+Contact maps
+Identify domains
+Find homologous structural domains, compute RMSD
+Identify protonation states of ionizable residues
+Surface analysis
+identify polar, charge, hydrophopic residues on the surface
+visualize electorstatic potential at the surface using PDB2PQR and APBS
+Dynamics analysis
+Conservation analysis
+
+выбрать молекулу (можно ту же, что в паймоле)
+Сделать картинку с полупрозрачной поверхностью, электростатикой? (или другим параметром), подписанными заряженными аминокислотами, контактами, 
+Найти клэши и повернуть боковые цепи так, чтобы их не было (фотки с одного ракурса до и после, чтобы было видно побольше клэшей и их исправление)
+Conservation analysis
+выравнивание 3д с гомологом
+выравнивание сиквенса с гомологом
+внести замены остатков (rotamers), чтобы максимально соответствовать гомологу (можно одну цепь/участок), выравнивания до и после
+покрасить гомологию
+
+
 
 ### Suggested problem sets
 Each student should take a unique problem.
