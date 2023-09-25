@@ -8,6 +8,7 @@
 - Moving structure (actions)
 - Making selections (by chains, residues, sequence, etc.)
 - Structure visualization modes (atoms, ribbon, surface)
+- Coloring (by attribute)
 - Combining structures
 - Structure and sequence alignment
 - Building and changing structures (angles, bonds, rotamers)
@@ -25,9 +26,9 @@ A set of PDB structures of a macromolecular complex in different conformations w
 
 1. Visualize a molecule with labeled and differently colored positive, negative or aromatic amino acids and semitransparent surface.
 2. Identify any clashes and fix them rotating amino acids angles.
-3. Make structure and sequence alignment of chosen molecule with any of its homologs, color homologous domains.
+3. Make structure and sequence alignment of chosen molecule with any of its homologs, color matching domains.
 4. Choose any segment of sequence alignment and introduce amino acid substitutions to make both chains completely matching.
-5. Conservation analysis  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+5. Make conservation analysis of aligned structures.
 6. Describe any problems encountered
 *. Write a script/demo for the task 1 with adding molecule name in the right upper corner and 360 degree rotating around every axis before and after changing the model.
 
