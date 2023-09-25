@@ -33,7 +33,7 @@ A set of PDB structures of a macromolecular complex in different conformations w
 
 ### Suggested problem sets
 Each student should take a unique problem.
-1. Any protein molecule of the month that has at least one homolog ([https://pdb101.rcsb.org/motm/motm-by-date](https://pdb101.rcsb.org/motm/motm-by-date)).
+1. Any molecule of the month that has at least one homolog ([https://pdb101.rcsb.org/motm/motm-by-date](https://pdb101.rcsb.org/motm/motm-by-date)).
 2. Any protein structure that has at least one homolog.
 
 ### Troubleshooting
