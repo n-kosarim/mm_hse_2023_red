@@ -1,25 +1,19 @@
 # Семинар 3. Визуализация 3D структур в Chimera.
 
 ## План семинара
-- An introduction to using Chimera to vizualize  3D PDB structures
+- An introduction to using Chimera to vizualize and manipulate 3D PDB structures
 - Chimera user interface orientation
 - Download and open PDB structure
 - Rotating, translating, setting clipping planes, projection type, centering (actions) etc.
-- Structure visualization modes (presets, lines, sticks, spheres)
-- Making selections (by chains, sequence, etc.).
+- Moving structure (actions)
+- Making selections (by chains, residues, sequence, etc.)
+- Structure visualization modes (atoms, ribbon, surface)
+- Combining structures
+- Structure and sequence alignment
+- Building and changing structures (angles, bonds, rotamers)
+
 - Chimera selection language             !!!!!!!!!!!!!!!!!!!!!!
-- Molecular surfaces
-- Structure alignment
-- Manipulating, moving structure (actions)
-- Adding H-atoms.
-- Calculating charge
-- Loading biounit, combining models, saving pdb-files.
-- Morphing, visualizing conformational transitions.
-- Coloring structure by parameters (B-factors)
-- Comparing PDB with electron density.
-- Scripting #############
-- Electrostaic surface coloring
-- High quality rendering
+- Scripting !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 ## Required software and resources
@@ -33,39 +27,16 @@
 
 A set of PDB structures of a macromolecular complex in different conformations will be suggested for analysis. The assignment report should include section detailing the following:
 
-1. Molecule visualization with labeled and differently colored positive, negative or aromatic amino acids and semitransparent surface.
-2. 
-3. 
-4. 
-5. 
-6. B-factor visualization (color scale should be given).
-7. Occupancy analysis
-8. Identify any potential CLASHES.
-9. Analyze and visualize electron density together with the structure, see if any problems can be seen.
-10. Electorstatic surface analysis
-11. Make figures showing changes in conformation by structural superposition.
-12. Identify and visualize key residues important for ligand binding.
-13. Describe any problems encountered
+1. Visualize a molecule with labeled and differently colored positive, negative or aromatic amino acids and semitransparent surface.
+2. Identify any clashes and fix them rotating amino acids angles.
+3. Make structure and sequence alignment of chosen molecule with any of its homologs, color homologous domains.
+4. Choose any segment of sequence alignment and make it fully matching  !!!!!!!!!!!!!!!!!!!!!!!!!!!!
+5. Conservation analysis  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+6. Describe any problems encountered
 
-Protein dihedral angle analysis
-Contact maps
-Identify domains
-Find homologous structural domains, compute RMSD
-Identify protonation states of ionizable residues
-Surface analysis
-identify polar, charge, hydrophopic residues on the surface
-visualize electorstatic potential at the surface using PDB2PQR and APBS
-Dynamics analysis
-Conservation analysis
+*. Make script for the task 1 with rotating the molecule in the end. !!!!!!!!!!!!!!!!!!!!
 
-выбрать молекулу (можно ту же, что в паймоле)
-Сделать картинку с полупрозрачной поверхностью, электростатикой? (или другим параметром), подписанными заряженными аминокислотами, контактами, 
-Найти клэши и повернуть боковые цепи так, чтобы их не было (фотки с одного ракурса до и после, чтобы было видно побольше клэшей и их исправление)
-Conservation analysis
-выравнивание 3д с гомологом
-выравнивание сиквенса с гомологом
 внести замены остатков (rotamers), чтобы максимально соответствовать гомологу (можно одну цепь/участок), выравнивания до и после
-покрасить гомологию
 
 
 
