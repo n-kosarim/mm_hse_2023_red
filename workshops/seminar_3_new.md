@@ -32,7 +32,7 @@ A set of PDB structures of a macromolecular complex in different conformations w
 *. Write a script/demo for the task 1 with adding molecule name in the right upper corner and 360 degree rotating around every axis before and after changing the model.
 
 ### Suggested problem sets
-Each student should take a unique problem.
+Each student should take a unique structure.
 1. Any molecule of the month that has at least one homolog ([https://pdb101.rcsb.org/motm/motm-by-date](https://pdb101.rcsb.org/motm/motm-by-date)).
 2. Any protein structure that has at least one homolog.
 
