@@ -27,7 +27,8 @@
 - nglview  
 - prody 
 - propka or use https://www.ddl.unimi.it/vegaol/propka.htm 
-- pdb2pqr or use https://server.poissonboltzmann.org/pdb2pqr 
+- pdb2pqr or use https://server.poissonboltzmann.org/pdb2pqr
+- apbs or use https://server.poissonboltzmann.org/apbs
 
 **Channels list (if you use Anaconda Navigator):**
 - conda-forge
