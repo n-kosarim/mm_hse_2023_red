@@ -53,6 +53,7 @@ The assignment report should include section detailing the following:
 6. Visualize electorstatic potential at the surface using PDB2PQR and APBS
 
 *. Identify domains using SCOPe, PFAM and/or NCNI protein databases 
+
 *. Dynamics analysis
 
 ### Suggested problem sets
