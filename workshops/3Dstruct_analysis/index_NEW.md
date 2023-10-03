@@ -52,8 +52,8 @@ The assignment report should include section detailing the following:
 5. Identify protonation states of ionizable residues
 6. Visualize electorstatic potential at the surface using PDB2PQR and APBS
 
-(*). Identify domains using SCOPe, PFAM and/or NCNI protein databases 
-(*). Dynamics analysis
+*. Identify domains using SCOPe, PFAM and/or NCNI protein databases.
+*. Dynamics analysis.
 
 ### Suggested problem sets
 Each student should take a unique PDB structure with at least two domains from the PDB web-site at his/her own discretion.
